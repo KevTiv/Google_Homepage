@@ -1,5 +1,8 @@
 # Google_Homepage
 
+The Odin Project: HTML & CSS project:
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css
+
 This is a simple HTML google home page. 
 
 Screenshot of the rendered google homepage can be found in the img file. 
